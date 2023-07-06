@@ -1,4 +1,3 @@
-About Me
 Exploring new technologies and developing software solutions and quick hacks.
 Software Engeneer
 Fullstack Web Developer (MERN)
