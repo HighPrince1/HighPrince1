@@ -1,8 +1,17 @@
-Software Engineering student
-ALX Full stack developer
-Backend specialist 
+About Me
+Exploring new technologies and developing software solutions and quick hacks.
+Software Engeneer
+Fullstack Web Developer (MERN)
+IT support Technician
+🛠  Tech Stack
+🌐   HTML5 CSS JavaScript Bootstrap Node.js React Python
+🛢   MySQL MongoDB
+⚙️   Git GitHub Markdown
+🔧   Visual Studio Code, VIM
 
-<!---
-HighPrince1/HighPrince1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+my Github Stats
+
+mystreak
