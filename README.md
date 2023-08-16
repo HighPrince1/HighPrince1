@@ -7,10 +7,3 @@ IT support Technician
 🛢   MySQL MongoDB
 ⚙️   Git GitHub Markdown
 🔧   Visual Studio Code, VIM
-
-
-
-
-my Github Stats
-
-mystreak
